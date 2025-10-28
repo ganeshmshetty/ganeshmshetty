@@ -8,10 +8,8 @@
 
 - 🎓 **Computer Science Student** at RV College of Engineering, Bangalore
 - 💻 **Full Stack Developer** passionate about creating efficient and scalable solutions
-- 🌱 Currently exploring **Rust** and **Advanced React** patterns
-- 🔭 Working on exciting projects like **ScrcpyGUI** and **Portfolio Website**
 - 📍 Based in **Bangalore, India**
-- ⚡ Fun fact: I love building tools that make developers' lives easier!
+- ⚡ I love building tools that make developers' lives easier!
 
 ## 🛠️ Tech Stack
 
@@ -40,21 +38,10 @@ A modern GUI wrapper for scrcpy - the popular Android screen mirroring tool
 - **Tech Stack**: Rust, GUI Framework
 - **Features**: Intuitive interface, easy device connection, enhanced user experience
 
-### 🌐 [Portfolio Website](https://github.com/ganeshmshetty/Portfolio)
-My personal portfolio showcasing projects and skills
-- **Tech Stack**: React, TypeScript, CSS3
-- **Live Demo**: [ganeshm.vercel.app](https://ganeshm.vercel.app)
-- **Features**: Responsive design, smooth animations, modern UI
-
 ### 📝 [Markdown Parser](https://github.com/ganeshmshetty/md-Parser)
 A custom Markdown parser implementation
 - **Tech Stack**: JavaScript/TypeScript
 - **Features**: Fast parsing, extensible architecture
-
-### 🔄 [Chyrp Rebuild](https://github.com/ganeshmshetty/chyrp_rebuild)
-Modern rebuild of the Chyrp blogging platform
-- **Tech Stack**: Modern web technologies
-- **Focus**: Improved performance and user experience
 
 ## 📊 GitHub Analytics
 
