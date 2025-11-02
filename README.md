@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## ⚡ About Me
+## About Me
 
 - **Computer Science Student** at RV College of Engineering, Bangalore
 - **Full Stack Developer** passionate about creating efficient and scalable solutions
 - Based in **Bangalore, India**
 - I love building tools that make developers' lives easier!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### [ScrcpyGUI](https://github.com/ganeshmshetty/ScrcpyGUI)
 A modern GUI wrapper for scrcpy - the popular Android screen mirroring tool
@@ -43,7 +43,7 @@ A custom Markdown parser implementation
 - **Tech Stack**: JavaScript/TypeScript
 - **Features**: Fast parsing, extensible architecture
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganeshmshetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
