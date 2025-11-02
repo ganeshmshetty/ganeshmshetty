@@ -4,12 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 🎓 **Computer Science Student** at RV College of Engineering, Bangalore
-- 💻 **Full Stack Developer** passionate about creating efficient and scalable solutions
-- 📍 Based in **Bangalore, India**
-- ⚡ I love building tools that make developers' lives easier!
+- **Computer Science Student** at RV College of Engineering, Bangalore
+- **Full Stack Developer** passionate about creating efficient and scalable solutions
+- Based in **Bangalore, India**
+- I love building tools that make developers' lives easier!
 
 ## 🛠️ Tech Stack
 
@@ -33,12 +33,12 @@
 
 ## 🔥 Featured Projects
 
-### 🖥️ [ScrcpyGUI](https://github.com/ganeshmshetty/ScrcpyGUI)
+### [ScrcpyGUI](https://github.com/ganeshmshetty/ScrcpyGUI)
 A modern GUI wrapper for scrcpy - the popular Android screen mirroring tool
 - **Tech Stack**: Rust, GUI Framework
 - **Features**: Intuitive interface, easy device connection, enhanced user experience
 
-### 📝 [Markdown Parser](https://github.com/ganeshmshetty/md-Parser)
+### [Markdown Parser](https://github.com/ganeshmshetty/md-Parser)
 A custom Markdown parser implementation
 - **Tech Stack**: JavaScript/TypeScript
 - **Features**: Fast parsing, extensible architecture
@@ -54,15 +54,13 @@ A custom Markdown parser implementation
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshmshetty&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🦀 **Learning Rust** for systems programming and performance-critical applications
-- ⚛️ **Mastering React** ecosystem and modern frontend patterns
-- 🔧 Building developer tools and utilities
-- 📚 Contributing to open source projects
-- 🎓 Advancing my Computer Science knowledge at RV College of Engineering
+- AI/ML tools(langchain, pandas, scikit-learn)
+- **Mastering React** ecosystem and modern frontend patterns
+- Contributing to open source projects
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -72,10 +70,6 @@ A custom Markdown parser implementation
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshm24122006@gmail.com)
 
 </div>
-
-## 💭 Quote
-
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ---
 
