@@ -74,10 +74,6 @@ A custom Markdown parser implementation
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganeshmshetty&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
   
 **Thanks for visiting my profile! Feel free to explore my repositories and connect with me!** 🚀
 
