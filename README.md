@@ -38,10 +38,15 @@ A modern GUI wrapper for scrcpy - the popular Android screen mirroring tool
 - **Tech Stack**: Rust, GUI Framework
 - **Features**: Intuitive interface, easy device connection, enhanced user experience
 
-### [Markdown Parser](https://github.com/ganeshmshetty/md-Parser)
-A custom Markdown parser implementation
+### [md_Parser](https://github.com/ganeshmshetty/md-Parser)
+Custom Markdown parser implementation
 - **Tech Stack**: JavaScript/TypeScript
 - **Features**: Fast parsing, extensible architecture
+
+### [BubBountyX](https://github.com/ganeshmshetty/BugBountyX)
+Blockchain based bug bounty website
+- **Tech Stack**: React, Hardhat
+- **Features**: Secure onChain submission, Automatic approval
 
 ## Current Focus
 
