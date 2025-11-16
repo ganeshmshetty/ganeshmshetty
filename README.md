@@ -33,7 +33,7 @@
 
 ## Featured Projects
 
-### [ScrcpyGUI](https://github.com/ganeshmshetty/ScrcpyGUI)
+### [scrcpygui](https://github.com/ganeshmshetty/ScrcpyGUI)
 A modern GUI wrapper for scrcpy - the popular Android screen mirroring tool
 - **Tech Stack**: Rust, GUI Framework
 - **Features**: Intuitive interface, easy device connection, enhanced user experience
