@@ -33,17 +33,16 @@
 
 ## Featured Projects
 
-### [Mirin](https://github.com/ganeshmshetty/Mirin)
+### [Mirin](https://github.com/ganeshmshetty/mirin)
 A screen mirroring app powered by scrcpy
 - **Tech Stack**: Rust, GUI Framework
 - **Features**: Intuitive interface, easy device connection, enhanced user experience
 
-### [md_Parser](https://github.com/ganeshmshetty/md-Parser)
-Custom Markdown parser implementation
-- **Tech Stack**: JavaScript/TypeScript
-- **Features**: Fast parsing, extensible architecture
+### [Nagarik](https://github.com/ganeshmshetty/nagarik)
+- **Tech Stack**:
+- **Features**:
 
-### [BubBountyX](https://github.com/ganeshmshetty/BugBountyX)
+### [BubBountyX](https://github.com/ganeshmshetty/bug-bounty)
 Blockchain based bug bounty website
 - **Tech Stack**: React, Hardhat
 - **Features**: Secure onChain submission, Automatic approval
