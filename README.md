@@ -38,10 +38,6 @@ A screen mirroring app powered by scrcpy
 - **Tech Stack**: Rust, GUI Framework
 - **Features**: Intuitive interface, easy device connection, enhanced user experience
 
-### [Nagarik](https://github.com/ganeshmshetty/nagarik)
-- **Tech Stack**:
-- **Features**:
-
 ### [BubBountyX](https://github.com/ganeshmshetty/bug-bounty)
 Blockchain based bug bounty website
 - **Tech Stack**: React, Hardhat
