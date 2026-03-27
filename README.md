@@ -34,7 +34,7 @@
 ## Featured Projects
 
 ### [AutoPattern](https://github.com/autopattern/autopattern)
-No-code recording browser workflow generation and automation!
+No-code browser task recording and automation!
 - **Tech Stack**: FastAPI, HTML, JS, CSS
 - **Features**: Task recognition, Task automation, Task customization
 
