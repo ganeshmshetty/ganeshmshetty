@@ -33,6 +33,11 @@
 
 ## Featured Projects
 
+### [Openclip](https://github.com/ganeshmshetty/openclip)
+Open-source popclip alternative
+- **Tech Stack**: swift
+- **Features**: fast and secure ig
+
 ### [AutoPattern](https://github.com/autopattern/autopattern)
 No-code browser task recording and automation!
 - **Tech Stack**: FastAPI, HTML, JS, CSS
@@ -43,11 +48,6 @@ No-code browser task recording and automation!
 A screen mirroring app powered by scrcpy
 - **Tech Stack**: Rust, GUI Framework
 - **Features**: Intuitive interface, easy device connection, enhanced user experience
-
-### [BubBountyX](https://github.com/ganeshmshetty/bug-bounty)
-Blockchain based bug bounty website
-- **Tech Stack**: React, Hardhat
-- **Features**: Secure onChain submission, Automatic approval
 
 ## Current Focus
 
