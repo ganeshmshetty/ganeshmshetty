@@ -11,6 +11,12 @@
 - Based in **Bangalore, India**
 - I love building tools that make developers' lives easier!
 
+## Featured Projects
+
+### [Openclip](https://github.com/ganeshmshetty/openclip) - Open-source popclip alternative
+### [AutoPattern](https://github.com/autopattern/autopattern) - No-code browser task recording and automation!
+### [Mirin](https://github.com/ganeshmshetty/mirin) - A screen mirroring app powered by scrcpy
+
 ## Tech Stack
 
 ### Languages
@@ -30,17 +36,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Featured Projects
-
-### [Openclip](https://github.com/ganeshmshetty/openclip) - Open-source popclip alternative
-
-### [AutoPattern](https://github.com/autopattern/autopattern) - No-code browser task recording and automation!
-
-### [Mirin](https://github.com/ganeshmshetty/mirin) - A screen mirroring app powered by scrcpy
-
 ## Let's Connect!
 
-<div align="center">
+<div>
   
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshm.vercel.app)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ganesh_m_shetty)
