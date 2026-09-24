@@ -14,10 +14,9 @@
 ## Tech Stack
 
 ### Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -33,27 +32,11 @@
 
 ## Featured Projects
 
-### [Openclip](https://github.com/ganeshmshetty/openclip)
-Open-source popclip alternative
-- **Tech Stack**: swift
-- **Features**: fast and secure ig
+### [Openclip](https://github.com/ganeshmshetty/openclip) - Open-source popclip alternative
 
-### [AutoPattern](https://github.com/autopattern/autopattern)
-No-code browser task recording and automation!
-- **Tech Stack**: FastAPI, HTML, JS, CSS
-- **Features**: Task recognition, Task automation, Task customization
+### [AutoPattern](https://github.com/autopattern/autopattern) - No-code browser task recording and automation!
 
-
-### [Mirin](https://github.com/ganeshmshetty/mirin)
-A screen mirroring app powered by scrcpy
-- **Tech Stack**: Rust, GUI Framework
-- **Features**: Intuitive interface, easy device connection, enhanced user experience
-
-## Current Focus
-
-- AI/ML tools(langchain, pandas, scikit-learn)
-- **Mastering React** ecosystem and modern frontend patterns
-- Contributing to open source projects
+### [Mirin](https://github.com/ganeshmshetty/mirin) - A screen mirroring app powered by scrcpy
 
 ## Let's Connect!
 
@@ -63,13 +46,5 @@ A screen mirroring app powered by scrcpy
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ganesh_m_shetty)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshmshetty)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshm24122006@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-**Thanks for visiting my profile! Feel free to explore my repositories and connect with me!** 🚀
 
 </div>
