@@ -1,48 +1,33 @@
-# Hola! I'm Ganesh M!
+# Hey, I'm Ganesh M 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
+Full Stack Developer · Computer Science Student @ RV College of Engineering, Bangalore
 
-## About Me
-
-- **Computer Science Student** at RV College of Engineering, Bangalore
-- **Full Stack Developer** passionate about creating efficient and scalable solutions
-- Based in **Bangalore, India**
-- I love building tools that make developers' lives easier!
+I build efficient, scalable tools — and I love making developers' lives easier.
 
 ## Featured Projects
 
-### [Openclip](https://github.com/ganeshmshetty/openclip) - Open-source popclip alternative
-### [AutoPattern](https://github.com/autopattern/autopattern) - No-code browser task recording and automation!
-### [Mirin](https://github.com/ganeshmshetty/mirin) - A screen mirroring app powered by scrcpy
+- **[OpenClip](https://github.com/ganeshmshetty/openclip)** — Open-source macOS text utility
+  ![Stars](https://img.shields.io/github/stars/ganeshmshetty/openclip?style=flat-square&label=%E2%AD%90)
+- **[AutoPattern](https://github.com/autopattern/autopattern)** — No-code browser task recording and automation
+- **[Mirin](https://github.com/ganeshmshetty/mirin)** — Screen mirroring app powered by scrcpy
+
+## Open Source Contributions
+
+- **[Zen](https://github.com/irbis-sh/zen-desktop)** — Ad-blocker and privacy guard for Windows, macOS, and Linux
+  ![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&label=%E2%AD%90)
+- **[Appwrite](https://github.com/appwrite/appwrite)** — Complete cloud infrastructure for web, mobile, and AI apps
+  ![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&label=%E2%AD%90)
+- **[Tinycast](https://github.com/abue-ammar/tinycast)** — Tiny, fully native macOS launcher, hotkeys, and clipboard history
+  ![Stars](https://img.shields.io/github/stars/abue-ammar/tinycast?style=flat-square&label=%E2%AD%90)
 
 ## Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+**Frameworks:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Let's Connect!
+## Let's Connect
 
-<div>
-  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshm.vercel.app)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ganesh_m_shetty)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshmshetty)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshm24122006@gmail.com)
-
-</div>
+[**Portfolio**](https://ganeshm.vercel.app) • [**Instagram**](https://instagram.com/ganesh_m_shetty) • [**LinkedIn**](https://linkedin.com/in/ganeshmshetty) • [**Email**](mailto:ganeshm24122006@gmail.com)
