@@ -2,22 +2,22 @@
 
 Full Stack Developer · Computer Science Student @ RV College of Engineering, Bangalore
 
-I build efficient, scalable tools — and I love making developers' lives easier.
+I build efficient, scalable tools and I love making peoples' lives easier.
 
 ## Featured Projects
 
-- **[OpenClip](https://github.com/ganeshmshetty/openclip)** — Open-source macOS text utility
+- **[OpenClip](https://github.com/ganeshmshetty/openclip)**: Open-source macOS text utility
   ![Stars](https://img.shields.io/github/stars/ganeshmshetty/openclip?style=flat-square&label=%E2%AD%90)
-- **[AutoPattern](https://github.com/autopattern/autopattern)** — No-code browser task recording and automation
-- **[Mirin](https://github.com/ganeshmshetty/mirin)** — Screen mirroring app powered by scrcpy
+- **[AutoPattern](https://github.com/autopattern/autopattern)**: No-code browser task recording and automation
+- **[Mirin](https://github.com/ganeshmshetty/mirin)**: Screen mirroring app powered by scrcpy
 
 ## Open Source Contributions
 
-- **[Zen](https://github.com/irbis-sh/zen-desktop)** — Ad-blocker and privacy guard for Windows, macOS, and Linux
+- **[Zen](https://github.com/irbis-sh/zen-desktop)**: Ad-blocker and privacy guard for Windows, macOS, and Linux
   ![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&label=%E2%AD%90)
-- **[Appwrite](https://github.com/appwrite/appwrite)** — Complete cloud infrastructure for web, mobile, and AI apps
+- **[Appwrite](https://github.com/appwrite/appwrite)**: Complete cloud infrastructure for web, mobile, and AI apps
   ![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&label=%E2%AD%90)
-- **[Tinycast](https://github.com/abue-ammar/tinycast)** — Tiny, fully native macOS launcher, hotkeys, and clipboard history
+- **[Tinycast](https://github.com/abue-ammar/tinycast)**: Tiny, fully native macOS launcher, hotkeys, and clipboard history
   ![Stars](https://img.shields.io/github/stars/abue-ammar/tinycast?style=flat-square&label=%E2%AD%90)
 
 ## Tech Stack
