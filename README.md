@@ -8,7 +8,7 @@ I build efficient, scalable tools and I love making peoples' lives easier.
 
 - **[OpenClip](https://github.com/ganeshmshetty/openclip)**: Open-source macOS text utility
   ![Stars](https://img.shields.io/github/stars/ganeshmshetty/openclip?style=flat-square&label=%E2%AD%90)
-- **[AutoPattern](https://github.com/autopattern/autopattern)**: No-code browser task recording and automation
+- **[RemoteCtrl](https://github.com/ganeshmshetty/RemCtrl)**: Agentic remote browser automation
 - **[Mirin](https://github.com/ganeshmshetty/mirin)**: Screen mirroring app powered by scrcpy
 
 ## Open Source Contributions
