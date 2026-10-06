@@ -1,8 +1,8 @@
 # Hey, I'm Ganesh M 👋
 
-Full Stack Developer · Computer Science Student @ RV College of Engineering, Bangalore
+Computer Science Student @ RV College of Engineering, Bangalore
 
-I build efficient, scalable tools and I love making peoples' lives easier.
+I love building tools that makes peoples' lives easier.
 
 ## Featured Projects
 
