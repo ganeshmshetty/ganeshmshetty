@@ -24,6 +24,8 @@ I love building tools that makes peoples' lives easier.
 - **[chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)**: Fixed Tool introspection for `functools.partial` and callable instances
 - **[awesome-mac](https://github.com/jaywcjlove/awesome-mac)**: Listed OpenClip under Productivity
   ![Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&label=%E2%AD%90)
+- **[RocketMQ Rust](https://github.com/mxsm/rocketmq-rust)**: Renamed `CursorBackendMismatch` to `ContinuationIndexKindMismatch` for clearer error semantics
+  ![Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat-square&label=%E2%AD%90)
 
 ## Tech Stack
 
