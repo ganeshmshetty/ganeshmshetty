@@ -13,12 +13,19 @@ I love building tools that makes peoples' lives easier.
 
 ## Open Source Contributions
 
-- **[Zen](https://github.com/irbis-sh/zen-desktop)**: Ad-blocker and privacy guard for Windows, macOS, and Linux
+Contributed to:
+
+- **[Zen](https://github.com/irbis-sh/zen-desktop)**: Fixed macOS Login Items showing the developer name instead of the app name
   ![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&label=%E2%AD%90)
-- **[Appwrite](https://github.com/appwrite/appwrite)**: Complete cloud infrastructure for web, mobile, and AI apps
-  ![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&label=%E2%AD%90)
-- **[Tinycast](https://github.com/abue-ammar/tinycast)**: Tiny, fully native macOS launcher, hotkeys, and clipboard history
+- **[Appwrite Autogravity](https://github.com/appwrite/autogravity)**: Added GIF image decoding support
+  ![Stars](https://img.shields.io/github/stars/appwrite/autogravity?style=flat-square&label=%E2%AD%90)
+- **[Tinycast](https://github.com/abue-ammar/tinycast)**: Made in-flight Quick Actions cancellable from the progress HUD
   ![Stars](https://img.shields.io/github/stars/abue-ammar/tinycast?style=flat-square&label=%E2%AD%90)
+- **[Homebrew Cask](https://github.com/Homebrew/homebrew-cask)**: Added the `openclip` cask
+  ![Stars](https://img.shields.io/github/stars/Homebrew/homebrew-cask?style=flat-square&label=%E2%AD%90)
+- **[chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)**: Fixed Tool introspection for `functools.partial` and callable instances
+- **[awesome-mac](https://github.com/jaywcjlove/awesome-mac)**: Listed OpenClip under Productivity
+  ![Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&label=%E2%AD%90)
 
 ## Tech Stack
 
