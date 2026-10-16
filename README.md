@@ -13,8 +13,6 @@ I love building tools that makes peoples' lives easier.
 
 ## Open Source Contributions
 
-Contributed to:
-
 - **[Zen](https://github.com/irbis-sh/zen-desktop)**: Fixed macOS Login Items showing the developer name instead of the app name
   ![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&label=%E2%AD%90)
 - **[Appwrite Autogravity](https://github.com/appwrite/autogravity)**: Added GIF image decoding support
