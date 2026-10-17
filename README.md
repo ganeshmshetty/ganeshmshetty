@@ -13,24 +13,19 @@ I love building tools that makes peoples' lives easier.
 
 ## Open Source Contributions
 
-- **[Zen](https://github.com/irbis-sh/zen-desktop)**: Fixed macOS Login Items showing the developer name instead of the app name
-  ![Stars](https://badgen.net/github/stars/irbis-sh/zen-desktop?icon=github)
-- **[Appwrite Autogravity](https://github.com/appwrite/autogravity)**: Added GIF image decoding support
-  ![Stars](https://badgen.net/github/stars/appwrite/autogravity?icon=github)
-- **[Tinycast](https://github.com/abue-ammar/tinycast)**: Made in-flight Quick Actions cancellable from the progress HUD
-  ![Stars](https://badgen.net/github/stars/abue-ammar/tinycast?icon=github)
-- **[Homebrew Cask](https://github.com/Homebrew/homebrew-cask)**: Added the `openclip` cask
-  ![Stars](https://badgen.net/github/stars/Homebrew/homebrew-cask?icon=github)
-- **[chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)**: Fixed Tool introspection for `functools.partial` and callable instances
-  ![Stars](https://badgen.net/github/stars/GustavoBaranda/chatflow-agent?icon=github)
-- **[awesome-mac](https://github.com/jaywcjlove/awesome-mac)**: Listed OpenClip under Productivity
-  ![Stars](https://badgen.net/github/stars/jaywcjlove/awesome-mac?icon=github)
-- **[RocketMQ Rust](https://github.com/mxsm/rocketmq-rust)**: Renamed `CursorBackendMismatch` to `ContinuationIndexKindMismatch` for clearer error semantics
-  ![Stars](https://badgen.net/github/stars/mxsm/rocketmq-rust?icon=github)
-- **[sqlsift](https://github.com/yukikotani231/sqlsift)**: Made `CHECKPOINT`, `CLUSTER` and `REINDEX` statements skipped instead of reported as E1000 errors
-  ![Stars](https://badgen.net/github/stars/yukikotani231/sqlsift?icon=github)
-- **[Tallybook](https://github.com/Tallybook-Org/tallybook)**: Added a runnable `ExampleScheduleHash` test to the meter package docs
-  ![Stars](https://badgen.net/github/stars/Tallybook-Org/tallybook?icon=github)
+Contributed to:
+
+<!-- CONTRIB:START -->
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ![Stars](https://badgen.net/github/stars/jaywcjlove/awesome-mac?icon=github)
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ![Stars](https://badgen.net/github/stars/Homebrew/homebrew-cask?icon=github)
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) ![Stars](https://badgen.net/github/stars/abue-ammar/tinycast?icon=github)
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) ![Stars](https://badgen.net/github/stars/irbis-sh/zen-desktop?icon=github)
+- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) ![Stars](https://badgen.net/github/stars/mxsm/rocketmq-rust?icon=github)
+- [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) ![Stars](https://badgen.net/github/stars/GustavoBaranda/chatflow-agent?icon=github)
+- [Tallybook-Org/tallybook](https://github.com/Tallybook-Org/tallybook) ![Stars](https://badgen.net/github/stars/Tallybook-Org/tallybook?icon=github)
+- [appwrite/autogravity](https://github.com/appwrite/autogravity) ![Stars](https://badgen.net/github/stars/appwrite/autogravity?icon=github)
+- [yukikotani231/sqlsift](https://github.com/yukikotani231/sqlsift) ![Stars](https://badgen.net/github/stars/yukikotani231/sqlsift?icon=github)
+<!-- CONTRIB:END -->
 
 ## Tech Stack
 
