@@ -26,6 +26,8 @@ I love building tools that makes peoples' lives easier.
   ![Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&label=%E2%AD%90)
 - **[RocketMQ Rust](https://github.com/mxsm/rocketmq-rust)**: Renamed `CursorBackendMismatch` to `ContinuationIndexKindMismatch` for clearer error semantics
   ![Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat-square&label=%E2%AD%90)
+- **[sqlsift](https://github.com/yukikotani231/sqlsift)**: Made `CHECKPOINT`, `CLUSTER` and `REINDEX` statements skipped instead of reported as E1000 errors
+  ![Stars](https://img.shields.io/github/stars/yukikotani231/sqlsift?style=flat-square&label=%E2%AD%90)
 
 ## Tech Stack
 
