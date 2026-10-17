@@ -7,29 +7,30 @@ I love building tools that makes peoples' lives easier.
 ## Featured Projects
 
 - **[OpenClip](https://github.com/ganeshmshetty/openclip)**: Open-source macOS text utility
-  ![Stars](https://img.shields.io/github/stars/ganeshmshetty/openclip?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/ganeshmshetty/openclip?icon=github)
 - **[RemoteCtrl](https://github.com/ganeshmshetty/RemCtrl)**: Agentic remote browser automation
 - **[Mirin](https://github.com/ganeshmshetty/mirin)**: Screen mirroring app powered by scrcpy
 
 ## Open Source Contributions
 
 - **[Zen](https://github.com/irbis-sh/zen-desktop)**: Fixed macOS Login Items showing the developer name instead of the app name
-  ![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/irbis-sh/zen-desktop?icon=github)
 - **[Appwrite Autogravity](https://github.com/appwrite/autogravity)**: Added GIF image decoding support
-  ![Stars](https://img.shields.io/github/stars/appwrite/autogravity?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/appwrite/autogravity?icon=github)
 - **[Tinycast](https://github.com/abue-ammar/tinycast)**: Made in-flight Quick Actions cancellable from the progress HUD
-  ![Stars](https://img.shields.io/github/stars/abue-ammar/tinycast?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/abue-ammar/tinycast?icon=github)
 - **[Homebrew Cask](https://github.com/Homebrew/homebrew-cask)**: Added the `openclip` cask
-  ![Stars](https://img.shields.io/github/stars/Homebrew/homebrew-cask?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/Homebrew/homebrew-cask?icon=github)
 - **[chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)**: Fixed Tool introspection for `functools.partial` and callable instances
+  ![Stars](https://badgen.net/github/stars/GustavoBaranda/chatflow-agent?icon=github)
 - **[awesome-mac](https://github.com/jaywcjlove/awesome-mac)**: Listed OpenClip under Productivity
-  ![Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/jaywcjlove/awesome-mac?icon=github)
 - **[RocketMQ Rust](https://github.com/mxsm/rocketmq-rust)**: Renamed `CursorBackendMismatch` to `ContinuationIndexKindMismatch` for clearer error semantics
-  ![Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/mxsm/rocketmq-rust?icon=github)
 - **[sqlsift](https://github.com/yukikotani231/sqlsift)**: Made `CHECKPOINT`, `CLUSTER` and `REINDEX` statements skipped instead of reported as E1000 errors
-  ![Stars](https://img.shields.io/github/stars/yukikotani231/sqlsift?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/yukikotani231/sqlsift?icon=github)
 - **[Tallybook](https://github.com/Tallybook-Org/tallybook)**: Added a runnable `ExampleScheduleHash` test to the meter package docs
-  ![Stars](https://img.shields.io/github/stars/Tallybook-Org/tallybook?style=flat-square&label=%E2%AD%90)
+  ![Stars](https://badgen.net/github/stars/Tallybook-Org/tallybook?icon=github)
 
 ## Tech Stack
 
