@@ -28,6 +28,8 @@ I love building tools that makes peoples' lives easier.
   ![Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat-square&label=%E2%AD%90)
 - **[sqlsift](https://github.com/yukikotani231/sqlsift)**: Made `CHECKPOINT`, `CLUSTER` and `REINDEX` statements skipped instead of reported as E1000 errors
   ![Stars](https://img.shields.io/github/stars/yukikotani231/sqlsift?style=flat-square&label=%E2%AD%90)
+- **[Tallybook](https://github.com/Tallybook-Org/tallybook)**: Added a runnable `ExampleScheduleHash` test to the meter package docs
+  ![Stars](https://img.shields.io/github/stars/Tallybook-Org/tallybook?style=flat-square&label=%E2%AD%90)
 
 ## Tech Stack
 
