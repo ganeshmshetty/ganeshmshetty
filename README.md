@@ -1,6 +1,5 @@
 # Hey, I'm Ganesh M 👋
 
-Computer Science Student @ RV College of Engineering, Bangalore.
 I love building tools that makes peoples' lives easier.
 
 ## Featured Projects
