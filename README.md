@@ -9,9 +9,7 @@ I love building tools that makes peoples' lives easier.
 - **[RemoteCtrl](https://github.com/ganeshmshetty/RemCtrl)**: Agentic remote browser automation
 - **[Mirin](https://github.com/ganeshmshetty/mirin)**: Screen mirroring app powered by scrcpy
 
-## Open Source Contributions
-
-Contributed to:
+## Contributions
 
 <!-- CONTRIB:START -->
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ![Stars](https://badgen.net/github/stars/jaywcjlove/awesome-mac?icon=github)
