@@ -16,14 +16,16 @@ I love building tools that makes peoples' lives easier.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ![Stars](https://badgen.net/github/stars/serhii-londar/open-source-mac-os-apps?icon=github)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ![Stars](https://badgen.net/github/stars/Homebrew/homebrew-cask?icon=github)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) ![Stars](https://badgen.net/github/stars/abue-ammar/tinycast?icon=github)
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ![Stars](https://badgen.net/github/stars/repowise-dev/repowise?icon=github)
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) ![Stars](https://badgen.net/github/stars/irbis-sh/zen-desktop?icon=github)
 - [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) ![Stars](https://badgen.net/github/stars/mxsm/rocketmq-rust?icon=github)
 - [nikolas-sapa/ns-ui](https://github.com/nikolas-sapa/ns-ui) ![Stars](https://badgen.net/github/stars/nikolas-sapa/ns-ui?icon=github)
 - [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) ![Stars](https://badgen.net/github/stars/GustavoBaranda/chatflow-agent?icon=github)
+- [Kartik8Dwivedi/Ditto](https://github.com/Kartik8Dwivedi/Ditto) ![Stars](https://badgen.net/github/stars/Kartik8Dwivedi/Ditto?icon=github)
 - [Tallybook-Org/tallybook](https://github.com/Tallybook-Org/tallybook) ![Stars](https://badgen.net/github/stars/Tallybook-Org/tallybook?icon=github)
 - [appwrite/autogravity](https://github.com/appwrite/autogravity) ![Stars](https://badgen.net/github/stars/appwrite/autogravity?icon=github)
-- [yukikotani231/sqlsift](https://github.com/yukikotani231/sqlsift) ![Stars](https://badgen.net/github/stars/yukikotani231/sqlsift?icon=github)
 - [refactor-ia/cortex](https://github.com/refactor-ia/cortex) ![Stars](https://badgen.net/github/stars/refactor-ia/cortex?icon=github)
+- [yukikotani231/sqlsift](https://github.com/yukikotani231/sqlsift) ![Stars](https://badgen.net/github/stars/yukikotani231/sqlsift?icon=github)
 <!-- CONTRIB:END -->
 
 ## Tech Stack
