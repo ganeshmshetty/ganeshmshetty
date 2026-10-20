@@ -4,10 +4,10 @@ i love building tools that makes peoples' lives easier.
 
 ## my projects
 
-- **[OpenClip](https://github.com/ganeshmshetty/openclip)**: Open-source macOS text utility
+- **[openclip](https://github.com/ganeshmshetty/openclip)**: open-source mac text utility
   ![Stars](https://badgen.net/github/stars/ganeshmshetty/openclip?icon=github)
-- **[RemoteCtrl](https://github.com/ganeshmshetty/RemCtrl)**: Agentic remote browser automation
-- **[Mirin](https://github.com/ganeshmshetty/mirin)**: Screen mirroring app powered by scrcpy
+- **[remotectrl](https://github.com/ganeshmshetty/RemCtrl)**: agentic remote browser automation
+- **[mirin](https://github.com/ganeshmshetty/mirin)**: screen mirroring app powered by scrcpy
 
 ## contributions
 
