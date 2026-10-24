@@ -1,4 +1,4 @@
-# hey, i'm Ganesh M 👋
+# hey, i'm ganesh 👋
 
 i love building tools that makes peoples' lives easier.
 
