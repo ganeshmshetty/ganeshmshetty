@@ -1,6 +1,6 @@
 # hey, i'm ganesh 👋
 
-i love building tools that makes peoples' lives easier.
+i love building stuffs.
 
 ## my projects
 
