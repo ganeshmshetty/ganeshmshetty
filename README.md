@@ -27,6 +27,7 @@ i love building stuffs.
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) ![Stars](https://badgen.net/github/stars/irbis-sh/zen-desktop?icon=github)
 - [kubeflow/trainer](https://github.com/kubeflow/trainer) ![Stars](https://badgen.net/github/stars/kubeflow/trainer?icon=github)
 - [mozilla/neqo](https://github.com/mozilla/neqo) ![Stars](https://badgen.net/github/stars/mozilla/neqo?icon=github)
+- [nyakang/nyaterm](https://github.com/nyakang/nyaterm) ![Stars](https://badgen.net/github/stars/nyakang/nyaterm?icon=github)
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) ![Stars](https://badgen.net/github/stars/sustainable-computing-io/kepler?icon=github)
 - [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) ![Stars](https://badgen.net/github/stars/mxsm/rocketmq-rust?icon=github)
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) ![Stars](https://badgen.net/github/stars/vshulcz/deja-vu?icon=github)
