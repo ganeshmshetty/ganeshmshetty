@@ -20,6 +20,7 @@ i love building stuffs.
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ![Stars](https://badgen.net/github/stars/longbridge/gpui-kit?icon=github)
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ![Stars](https://badgen.net/github/stars/PHPOffice/PhpSpreadsheet?icon=github)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) ![Stars](https://badgen.net/github/stars/abue-ammar/tinycast?icon=github)
+- [ellite/Wallos](https://github.com/ellite/Wallos) ![Stars](https://badgen.net/github/stars/ellite/Wallos?icon=github)
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ![Stars](https://badgen.net/github/stars/repowise-dev/repowise?icon=github)
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) ![Stars](https://badgen.net/github/stars/roundcube/roundcubemail?icon=github)
 - [simulot/immich-go](https://github.com/simulot/immich-go) ![Stars](https://badgen.net/github/stars/simulot/immich-go?icon=github)
