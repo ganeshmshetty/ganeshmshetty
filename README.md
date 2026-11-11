@@ -1,6 +1,6 @@
 # hey, i'm ganesh
 
-i love building stuffs.
+description
 
 ## my projects
 
